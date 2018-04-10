@@ -1,5 +1,5 @@
 # PopulatePlane
 Simple project for instantiating a prefab along a mesh 
 
-![testtext](https://raw.githubusercontent.com/PauletaM/PopulatePlane/master/Assets/Hexahedron.jpg)
+![testtext](https://raw.githubusercontent.com/PauletaM/PopulatePlane/master/planepopulate.gif)
 
